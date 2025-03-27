@@ -20,7 +20,6 @@ ignore =
     E731
     # Ambiguous variable names
     E741
-    # Line break before binary operator
     W503
     # Line break after binary operator
     W504
