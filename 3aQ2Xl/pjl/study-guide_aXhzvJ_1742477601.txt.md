@@ -18,7 +18,6 @@
 ## 准备
 
 我们将会定义一些概念，在开始之前，最好你已经理解了[Docker是什么][what-docker-is]和[为什么要使用Docker][why-you-would-use-docker]。
-
 我们假设你已经熟悉下面这些概念：
 
 - IP地址和端口
