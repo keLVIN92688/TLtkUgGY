@@ -1,5 +1,4 @@
 FROM golang:latest
-ENV WORKDIR /app
 ADD . $WORKDIR
 WORKDIR $WORKDIR
 RUN make deps
