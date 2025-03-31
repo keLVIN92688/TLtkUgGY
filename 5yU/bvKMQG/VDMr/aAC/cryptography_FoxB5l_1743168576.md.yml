@@ -199,7 +199,6 @@ task:
     FILE_ENV: "./ci/test/00_setup_env_native_nowallet_libbitcoinkernel.sh"
 
 task:
-  name: 'macOS-cross, gui, no tests'
   << : *GLOBAL_TASK_TEMPLATE
   persistent_worker:
     labels:
